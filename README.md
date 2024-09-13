@@ -1,3 +1,3 @@
 # first-demo
 This is my first GIT repositary
-Author -- Harshal Patil
+Author -- Harshal Patil.
